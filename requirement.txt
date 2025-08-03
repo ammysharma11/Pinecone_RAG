@@ -1,0 +1,20 @@
+# Core LangChain Libraries
+langchain
+langchain-community
+langchain-google-genai
+langchain-hub
+langchain-pinecone==0.0.3
+
+# Vector Database
+pinecone==3.0.3
+
+# Embedding & LLM Models
+sentence-transformers
+cohere
+pillow
+
+# Document Loaders
+pypdf
+
+# UI Framework
+gradio
