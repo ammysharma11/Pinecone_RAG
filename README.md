@@ -75,12 +75,6 @@ GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY"
 
 Note: The application code will need to be configured to load these variables, typically using a library like python-dotenv.
 
-Running the Application
-Once the setup is complete, run the main Python script to launch the Gradio web server:
-
-python your_main_script.py
-
-The application will be available at a local URL (e.g., http://127.0.0.1:7860), which will be displayed in your terminal.
 
 📖 Usage
 Open the application in your web browser.
